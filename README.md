@@ -33,7 +33,7 @@ This project analyzes NYC public schools' SAT performance using the `schools.csv
 - **Borough Variability**: Borough with the highest SAT performance variability.
 
 ## Requirements
-- Python 3.x  
+- Python 3
 - pandas library  
 
 ## Insights
